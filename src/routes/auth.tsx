@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { toast } from "sonner";
-import logo from "@/assets/minemart-logo.png.asset.json";
+import logo from "@/assets/minemart-logo.png";
 
 export const Route = createFileRoute("/auth")({ component: AuthPage });
 
