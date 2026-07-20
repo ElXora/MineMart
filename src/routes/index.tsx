@@ -5,7 +5,7 @@ import { ProductCard } from "@/components/ProductCard";
 import { Button } from "@/components/ui/button";
 import { CATEGORIES, listProducts } from "@/lib/products";
 import { Search, Sparkles, ShieldCheck, Zap } from "lucide-react";
-import logo from "@/assets/minemart-logo.png.asset.json";
+import logo from "@/assets/minemart-logo.png";
 
 export const Route = createFileRoute("/")({
   component: Home,
