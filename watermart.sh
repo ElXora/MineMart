@@ -116,9 +116,9 @@ echo -e "${GRAY}━━━━━━━━━━━━━━━━━━━━━�
 
 # ===== FOOTER =====
 echo -e "${GREEN}Support:${RESET}  support@aldow.cyou"
-echo -e "${GREEN}Discord:${RESET}  https://discord.gg/RTcr3gmQFr"
+echo -e "${GREEN}Discord:${RESET}  https://discord.gg/N3QnBUbNZP"
 echo -e "${GREEN}Website:${RESET}  https://aldow.cyou"
-echo -e "${MAGENTA}Aldow — Premium Hosting Experience 💎${RESET}"
+echo -e "${MAGENTA}Aldow — Host Smarter${RESET}"
 echo ""
 EOF
 
